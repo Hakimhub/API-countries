@@ -9,14 +9,14 @@ I used visial studio code to create this.
 
 
 Technology:
-<ul>
+<ol>
   <li>HTML</li>
   <li>CSS</li>
   <li>JAVASCRIPT</li>
   <li>Ajax</li>
   <li>JSON</li>
   <li>Restcountries API</li>
-</ul>
+</ol>
 
 Versioning:
 0.1.0
@@ -27,8 +27,12 @@ ddumbahakim@gmail.com
 
 
 What i learn,Practice:
-1.DOM Manipulation
-2.Ajax
-3.JSON
-4.JAVASCRIPT
-5.Arrays
+<ol>
+  <li>DOM Manipulation</li>
+  <li>Ajax</li>
+  <li>JSON</li>
+  <li>JAVASCRIPT</li>
+  <li>Arrays</li>
+</ol>
+
+
