@@ -7,7 +7,10 @@ This is an API countries which will show you the details of the countries once y
 ## Tool:
 I used visial studio code to create this.
 
+## Screenshot:
 
+<img src= "https://user-images.githubusercontent.com/67559215/86455409-dcd87d80-bd20-11ea-8eeb-800a7d725132.gif">
+<img src="https://user-images.githubusercontent.com/67559215/86455426-e3ff8b80-bd20-11ea-966f-8024d59fd717.png">
 ## Technology:
 <ol>
   <li>HTML</li>
