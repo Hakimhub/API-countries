@@ -9,7 +9,7 @@ I used visial studio code to create this.
 
 ## Screenshot:
 
-<img src= "https://user-images.githubusercontent.com/67559215/86455409-dcd87d80-bd20-11ea-8eeb-800a7d725132.gif" width="400px">
+<img src= "https://user-images.githubusercontent.com/67559215/86459242-cd5c3300-bd26-11ea-8841-0175f4a62dbf.png" width="400px">
 <img src="https://user-images.githubusercontent.com/67559215/86455426-e3ff8b80-bd20-11ea-966f-8024d59fd717.png" width="400px">
 
 ## Technology:
