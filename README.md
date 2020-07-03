@@ -26,7 +26,7 @@ Hakim
 ddumbahakim@gmail.com
 
 
-What i learn,Practice:
+What i Learnt,Practice:
 <ol>
   <li>DOM Manipulation</li>
   <li>Ajax</li>
