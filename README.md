@@ -9,12 +9,14 @@ I used visial studio code to create this.
 
 
 Technology:
-1.HTML
-2.CSS
-3.JAVASCRIPT
-4.Ajax
-5.JSON
-6.Restcountries API
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>Ajax</li>
+  <li>JSON</li>
+  <li>Restcountries API</li>
+</ul>
 
 Versioning:
 0.1.0
