@@ -10,7 +10,7 @@ I used visial studio code to create this.
 ## Screenshot:
 
 <img src= "https://user-images.githubusercontent.com/67559215/86459242-cd5c3300-bd26-11ea-8841-0175f4a62dbf.png" width="400px">
-<img src="https://user-images.githubusercontent.com/67559215/86455426-e3ff8b80-bd20-11ea-966f-8024d59fd717.png" width="400px">
+<img src="https://user-images.githubusercontent.com/67559215/86461607-8a9c5a00-bd2a-11ea-8ab9-10aacde0b5cd.gif" width="400px">
 
 ## Technology:
 <ol>
