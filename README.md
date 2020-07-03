@@ -26,7 +26,7 @@ I used visial studio code to create this.
 0.1.0
 
 ## Authors:
-<h1>Hakim<h1>
+<h2>Hakim<h2>
 
 # Email: ddumbahakim@gmail.com
 
