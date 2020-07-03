@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>REST Countries API</title>
+</head>
+<body>
+    <h1>REST Countries API</h1>
+    <div id ="main-container">
+        <div id ="flag-container">
+            <img id="flagImage" src="" alt="">
+        </div>
+
+        <div id="info-container">
+            <select id="countries" onchange="selectChange()">
+               
+            </select>
+
+            <p>Capital: <span id="capital"></span></p>
+            <p>DialingCode: <span id="dialing-code"></span></p>
+            <p>Population: <span id="population"></span></p>
+            <p>Currencies: <span id="currencies"></span></p>
+            <p>Region: <span id="region"></span></p>
+            <p>Subregion: <span id="subregion"></span></p>
+            <p>Timezone: <span id="timezone"></span></p>
+            <p>Languages: <span id="languages"></span></p>
+            <p>Alpha2Code: <span id="alpha2Code"></span></p>
+        </div>
+    </div>
+    <script src="api.js"></script>
+</body>
+</html>
